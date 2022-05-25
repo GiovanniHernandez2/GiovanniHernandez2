@@ -1,16 +1,23 @@
-### Hi there 👋
+<p><em>A bachelor student at <a href="https://hogent.be">Universidad Autonoma de Coahuila</a>, Engineer in Computer Systems 😊</br>
+</em></p>
 
-<!--
-**GiovanniHernandez2/GiovanniHernandez2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+             },
+      databases: ["Access", "mySQL", "SQLServer"],
+      
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+  };
+```
